@@ -1,8 +1,8 @@
-#🎥 AI Video Summarizer
+# 🎥 AI Video Summarizer
 
 An AI-powered tool that automatically generates concise summaries from videos using machine learning and NLP techniques. This project extracts key highlights, making content consumption faster and more efficient.
 
-##🚀 Features
+## 🚀 Features
 
 🎯 AI-driven summarization – Extracts key moments from videos.
 
@@ -12,7 +12,7 @@ An AI-powered tool that automatically generates concise summaries from videos us
 
 ⚡ Fast processing – Optimized for efficiency.
 
-##🛠️ Installation
+## 🛠️ Installation
 
 Clone the repository:
 ```bash
@@ -36,7 +36,7 @@ Run the summarizer with:
 python app2.py --video "path/to/video.mp4"
 ```
 
-##📂 Project Structure
+## 📂 Project Structure
 
 📁 AI-Video-Summarizer  
 
@@ -50,11 +50,11 @@ python app2.py --video "path/to/video.mp4"
  
  ├── sample_video.mp4 # Example video file  
  
-##🧑‍💻 Contributing
+## 🧑‍💻 Contributing
 
 Feel free to submit pull requests or report issues to improve the project.
 
-##📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
